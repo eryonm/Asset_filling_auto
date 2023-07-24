@@ -27,8 +27,8 @@
 
 # Project setup
 
-pip install selenium
-pip install pyodbc
+`pip install selenium`
+ `pip install pyodbc`
 
 # Gif: How code works
 
