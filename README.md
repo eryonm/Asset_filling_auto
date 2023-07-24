@@ -25,6 +25,11 @@
 # WARNING
 Не пытайтесь запустить код, код работает исключительно в локальной сети компании
 
+# Project setup
+
+pip install selenium
+pip install pyodbc
+
 # Gif: How code works
 
 
